@@ -1,2 +1,2 @@
-# CoffeeProject
-微信端咖啡项目地址迁移
+#coffee-platform-2nd
+咖啡平台二组
